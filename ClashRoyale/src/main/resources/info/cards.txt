@@ -1,0 +1,16 @@
+Mago de Hielo,Tropa,Arena 8,Legendaria,ice_wizard
+Bandida,Tropa,Arena 13,Legendaria,bandit
+Curandera Guerrera,Tropa,Arena Legendaria,Especial,battle_healer
+Bruja Nocturna,Tropa,Arena 14,Legendaria,dark_witch
+Dragón Eléctrico,Tropa,Arena 11,Épica,electro_dragon
+Horno,Estructura,Arena 10,Especial,firespirit_hut
+Máquina Voladora,Tropa,Arena 6,Especial,flying_machine
+Barril de Duendes,Hechizo,Arena 3,Épica,goblin_barrel
+Choza de Duendes,Estructura,Arena 9,Especial,goblin_hut
+Rayo,Hechizo,Arena 8,Épica,lightning
+Mini P.E.K.K.A,Tropa,Entrenamiento,Especial,mini_pekka
+Flechas,Hechizo,Entrenamiento,Común,arrows
+Bebé Dragón,Tropa,Arena 2,Épica,baby_dragon
+Princesa,Tropa,Arena 5,Legendaria,princess
+Leñador,Tropa,Arena 14,Legendaria,lumberjack
+Valquiria,Tropa,Arena 2,Especial,valkyrie
